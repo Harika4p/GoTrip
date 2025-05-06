@@ -4,12 +4,19 @@ A collaborative cloud-based travel planner to plan smart, share itineraries, tra
 # Core Features
 
 🧳 Trip Dashboard – Create, edit, and view trips. Share trip links with friends.
+
 📅 Itinerary Builder – Add day wise plans including time, location, notes, and parking.
+
 🌤 Weather Forecast – Live forecast integration for every travel day.
+
 💸 Expense Tracker – Log shared expenses and split costs among participants.
+
 🏨 Stay Planner – List hotels, check-in times, and booking links.
+
 🖼 Photo Gallery – Upload trip memories post-trip.
+
 👕 Outfit & Packing Suggestions (Coming Soon) – Plan clothing by day and activity.
+
 🎥 Memory Video Generator (Planned) – Compile photos into a video highlight with music.
 
 # Why I am building it
