@@ -21,14 +21,17 @@ A collaborative cloud-based travel planner to plan smart, share itineraries, tra
 
 # Why I am building it
 
-As a travel and techie enthusiast, I always found it hard to centralize trip information — like where we're going, who’s paying for what, where to eat, and which outfits to pack. GoTrip makes planning fun, collaborative, and unforgettable, whether you’re traveling solo or with friends.
+As a travel and tech enthusiast, I always found it tricky to centralize trip details, like where we’re going, who’s paying for what, where to eat, and what outfits to pack. GoTrip makes planning fun, collaborative, and unforgettable, whether you're traveling solo or with friends. And once the trip’s over, you can save and revisit all your memories in one place with your personal photo gallery.
 
 # Challenges
 
-Building a dynamic itinerary editor that’s flexible and user-friendly
-Setting up secure file uploads to AWS S3 for the photo gallery
-Ensuring seamless collaboration via trip links
-Designing for both solo and group travelers
+Building a dynamic itinerary editor that’s flexible, intuitive, and easy to update day-by-day
+Setting up secure file uploads to AWS S3 for storing trip photos
+Integrating interactive maps and handling multiple locations for each day
+Fetching and displaying weather forecasts for specific trip dates and destinations
+Designing an outfit planner that factors in weather, activity type, and travel preferences
+Creating a smooth user experience for both solo travelers and group planning
+Ensuring seamless trip sharing and collaboration using unique trip links
 
 # What I am learning 
 
